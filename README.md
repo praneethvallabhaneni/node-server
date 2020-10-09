@@ -1,6 +1,7 @@
 # node-server
 
-##Author Praneeth vallbhaneni 
+## Author Praneeth vallbhaneni 
 
-##Heroku link
+## Heroku link
+
 https://praneeth-node-server.herokuapp.com/
